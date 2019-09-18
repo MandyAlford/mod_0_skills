@@ -1,0 +1,13 @@
+Object: White Whirlpool refrigerator
+
+attributes:
+brand (string) "Whirlpool"
+powerOn (boolean) true
+numberOfItems (integer) 25
+temperature (integer) 40
+
+method results:
+unplug = powerOn false
+increaseTemperature = 42
+decreaseTemperature = 38
+addGroceries = 30
