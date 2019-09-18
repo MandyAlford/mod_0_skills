@@ -1,0 +1,15 @@
+Brainstorm one class that might exist in a restaurant
+
+class: oven
+
+attributes:
+brand (string)
+selfClean (boolean)
+powerOn (boolean)
+temperatureSetting (integer)
+
+methods:
+turnOff (makes powerOn false)
+increaseTemperature (make temperatureSetting higher/warmer)
+decreaseTemperature (make temperatureSetting lower/cooler)
+activateSelfClean (make selfClean true)
