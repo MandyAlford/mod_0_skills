@@ -1,0 +1,15 @@
+Brainstorm one class that might exist in a restaurant
+
+class: refrigerator
+
+attributes:
+brand (string)
+powerOn (boolean)
+numberOfItems (integer)
+temperature (integer)
+
+methods:
+unplug (makes powerOn false)
+increaseTemperature (make temperature attribute higher/warmer)
+decreaseTemperature (make temperature attribute lower/cooler)
+addGroceries (increase numberOfItems)
