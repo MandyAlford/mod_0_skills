@@ -1,0 +1,15 @@
+Object: Black Kenmore oven
+
+class: oven
+
+attributes:
+brand (string) "Kenmore"
+selfClean (boolean) true
+powerOn (boolean) true
+temperatureSetting (integer) 350
+
+methods:
+turnOff = powerOn false
+increaseTemperature = 400
+decreaseTemperature = 300
+activateSelfClean = true 
